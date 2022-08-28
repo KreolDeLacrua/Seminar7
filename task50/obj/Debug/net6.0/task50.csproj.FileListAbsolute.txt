@@ -1,0 +1,15 @@
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\task50.csproj.AssemblyReference.cache
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\task50.AssemblyInfoInputs.cache
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\task50.AssemblyInfo.cs
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\task50.csproj.CoreCompileInputs.cache
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\bin\Debug\net6.0\task50.exe
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\bin\Debug\net6.0\task50.deps.json
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\bin\Debug\net6.0\task50.runtimeconfig.json
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\bin\Debug\net6.0\task50.dll
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\bin\Debug\net6.0\task50.pdb
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\task50.dll
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\refint\task50.dll
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\task50.pdb
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\task50.genruntimeconfig.cache
+C:\Users\kreol\Desktop\GB\С#\Seminar7\task50\obj\Debug\net6.0\ref\task50.dll
